@@ -1,1 +1,2 @@
-Welcome to the Blink Shell wiki!
+<DOCTYPE html>
+    <h1>Bohdan</h1>
